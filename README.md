@@ -1,39 +1,66 @@
-# bug-free-engine
+# bug-free-engine 🚀
 
-## Description
-A brief description of what this project does and its purpose.
+> **Status:** 🚧 In Development
 
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
+A lightweight, modular game engine built from the ground up to understand core engine architecture and graphics programming.
 
-## Installation
+## 🎯 Project Goals
 
-```bash
-# Clone the repository
-git clone https://github.com/willisxd213/bug-free-engine.git
+This project is focused on:
+- Building a deep understanding of game engine architecture
+- Learning graphics programming and rendering pipelines
+- Implementing efficient memory management and performance optimization
+- Creating a foundation for future game projects
 
-# Navigate to the project directory
-cd bug-free-engine
+## 🗓️ Roadmap
 
-# Install dependencies (if applicable)
-# npm install
-# or
-# pip install -r requirements.txt
-```
+### Phase 1: Foundation (Current)
+- [ ] Project setup and repository structure
+- [ ] Window creation and input handling
+- [ ] Basic rendering pipeline
+- [ ] Resource management system
 
-## Usage
+### Phase 2: Core Systems
+- [ ] Entity Component System (ECS) architecture
+- [ ] Scene management
+- [ ] Physics integration
+- [ ] Audio system
 
-```bash
-# Instructions on how to use your project
-```
+### Phase 3: Advanced Features
+- [ ] Custom shader support
+- [ ] Particle systems
+- [ ] UI framework
+- [ ] Scripting layer
 
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
+### Phase 4: Tools & Polish
+- [ ] Level editor
+- [ ] Debug visualization tools
+- [ ] Performance profiling
+- [ ] Documentation and examples
 
-## License
-This project is licensed under the [LICENSE NAME] - see the LICENSE file for details.
+## 🛠️ Planned Tech Stack
 
-## Contact
-- GitHub: [@willisxd213](https://github.com/willisxd213)
+**Language:** TBD (C++, C#, or Rust)  
+**Graphics API:** OpenGL / DirectX  
+**Build System:** CMake / MSBuild  
+**Dependencies:** SDL2 / GLFW for windowing
+
+## 📚 Learning Resources
+
+This project is being built while studying:
+- Game engine architecture patterns
+- Graphics programming fundamentals
+- Data-oriented design principles
+- Performance optimization techniques
+
+## 🤝 Contributing
+
+This is primarily a learning project, but suggestions and feedback are always welcome! Feel free to open an issue if you have ideas or spot potential improvements.
+
+## 📫 Contact
+
+**GitHub:** [@willisxd213](https://github.com/willisxd213)
+
+---
+
+*This engine is being built as part of my journey toward becoming a professional game developer. Follow along as it evolves!*
